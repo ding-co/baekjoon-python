@@ -1,2 +1,2 @@
 # baekjoon-python
-Baekjoon problem solving using Python3
+Baekjoon problem solving using Python3 in VS Code
