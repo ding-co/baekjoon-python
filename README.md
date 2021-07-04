@@ -1,2 +1,2 @@
-# baekjoon
-Baekjoon problem solving using Python3, Java, etc.
+# baekjoon-python
+Baekjoon problem solving using Python3
